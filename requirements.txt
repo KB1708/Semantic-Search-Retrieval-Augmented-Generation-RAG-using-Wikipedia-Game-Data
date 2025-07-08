@@ -2,3 +2,6 @@ ipykernel
 ipython-sql
 chromadb
 polars
+python-dotenv
+openai
+google-generativeai
